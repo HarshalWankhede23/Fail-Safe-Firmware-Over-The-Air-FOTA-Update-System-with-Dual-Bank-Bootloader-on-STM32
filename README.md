@@ -1,0 +1,1 @@
+# Fail-Safe-Firmware-Over-The-Air-FOTA-Update-System-with-Dual-Bank-Bootloader-on-STM32
